@@ -19,7 +19,7 @@ The goal of the game is for the player to guess the number before the guesses ru
 
 ### Links
 
-- Solution on Replit: 
+- Solution on Replit: https://replit.com/@kristina225/100-DoC-Python-Day12-Guess-the-Number
 
 ## My process
 
